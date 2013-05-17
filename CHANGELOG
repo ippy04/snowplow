@@ -1,3 +1,8 @@
+Version X.X.X (2013-XX-XX)
+--------------------------
+**Note: may end up in 0.8.5**
+EmrEtlRunner: now embeddable in other applications (#128) - TODO
+
 Version 0.8.5 (2013-05-XX)
 --------------------------
 Hadoop ETL: bumped to 0.3.1
